@@ -4,4 +4,4 @@
 
 ![Skills](https://skillicons.dev/icons?i=python,sklearn,tensorflow,pandas,numpy,matplotlib)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
