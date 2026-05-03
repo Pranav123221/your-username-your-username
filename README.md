@@ -8,7 +8,7 @@
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pranav123221)
 
-![snake gif](https://github.com/Pranav123221/Pranav123221/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
